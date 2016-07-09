@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: TPs_Diplomatura_Linux.aux
+The style file: apalike.bst
+Database file #1: miscitas.bib
+Warning--empty year in xhost
+You've used 22 entries,
+            1935 wiz_defined-function locations,
+            569 strings with 6787 characters,
+and the built_in function-call counts, 5648 in all, are:
+= -- 615
+> -- 154
+< -- 22
++ -- 58
+- -- 44
+* -- 332
+:= -- 1128
+add.period$ -- 87
+call.type$ -- 22
+change.case$ -- 132
+chr.to.int$ -- 16
+cite$ -- 23
+duplicate$ -- 224
+empty$ -- 339
+format.name$ -- 66
+if$ -- 1044
+int.to.chr$ -- 7
+int.to.str$ -- 0
+missing$ -- 2
+newline$ -- 134
+num.names$ -- 66
+pop$ -- 51
+preamble$ -- 1
+purify$ -- 132
+quote$ -- 0
+skip$ -- 193
+stack$ -- 0
+substring$ -- 272
+swap$ -- 1
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 130
+warning$ -- 1
+while$ -- 44
+width$ -- 0
+write$ -- 308
+(There was 1 warning)

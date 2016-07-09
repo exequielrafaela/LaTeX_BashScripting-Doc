@@ -1,0 +1,157 @@
+
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Ejercicios Tema1: Introducci\IeC {\'o}n al entorno gr\IeC {\'a}fico de un Sistema GNU/Linux y herramientas}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Actividad 1.}{1}{subsection.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1}Kernel: Definici\IeC {\'o}n}{1}{subsubsection.1.1.1}
+\contentsline {subsubsection}{\numberline {1.1.2}Versi\IeC {\'o}n actual de kernel estable en \ac {gnu}/Linux}{2}{subsubsection.1.1.2}
+\contentsline {subsubsection}{\numberline {1.1.3}Versi\IeC {\'o}n mas usada de kernel estable en \ac {gnu}/Linux}{4}{subsubsection.1.1.3}
+\contentsline {subsection}{\numberline {1.2}Actividad 2.}{4}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}\IeC {\textquestiondown }De qu\IeC {\'e} distribuci\IeC {\'o}n deriva \ac {gnu}/Linux Fedora?}{4}{subsubsection.1.2.1}
+\contentsline {subsection}{\numberline {1.3}Actividad 3.}{4}{subsection.1.3}
+\contentsline {subsubsection}{\numberline {1.3.1}Imprimir pantalla del escritorio \ac {gnome}}{4}{subsubsection.1.3.1}
+\contentsline {subsection}{\numberline {1.4}Actividad 4.}{6}{subsection.1.4}
+\contentsline {subsubsection}{\numberline {1.4.1}Navegaci\IeC {\'o}n de directorios con Nautilus}{6}{subsubsection.1.4.1}
+\contentsline {subsection}{\numberline {1.5}Actividad 5.}{9}{subsection.1.5}
+\contentsline {subsubsection}{\numberline {1.5.1}LibreOffice Writer: Guardado de archivos .doc en .odt }{9}{subsubsection.1.5.1}
+\contentsline {subsection}{\numberline {1.6}Actividad 6.}{10}{subsection.1.6}
+\contentsline {subsubsection}{\numberline {1.6.1}Consolas virtuales y \ac {gtk}-Warning}{10}{subsubsection.1.6.1}
+\contentsline {section}{\numberline {2}Ejercicios Tema3: L\IeC {\'\i }nea de Comandos. Comandos b\IeC {\'a}sicosI }{12}{section.2}
+\contentsline {subsection}{\numberline {2.1}Actividad 1.}{12}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}\ac {cd} command}{12}{subsubsection.2.1.1}
+\contentsline {subsection}{\numberline {2.2}Actividad 2.}{12}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Sudo y permisos de administraci\IeC {\'o}n}{12}{subsubsection.2.2.1}
+\contentsline {subsection}{\numberline {2.3}Actividad 3.}{15}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}less command}{15}{subsubsection.2.3.1}
+\contentsline {subsection}{\numberline {2.4}Actividad 4.}{15}{subsection.2.4}
+\contentsline {subsubsection}{\numberline {2.4.1}/bin and /sbin}{15}{subsubsection.2.4.1}
+\contentsline {subsection}{\numberline {2.5}Actividad 5.}{17}{subsection.2.5}
+\contentsline {subsubsection}{\numberline {2.5.1}Listado de permisos ''ls -la`` command}{17}{subsubsection.2.5.1}
+\contentsline {subsection}{\numberline {2.6}Actividad 6.}{18}{subsection.2.6}
+\contentsline {subsubsection}{\numberline {2.6.1}Listado de permisos ''ls -l`` command}{18}{subsubsection.2.6.1}
+\contentsline {subsection}{\numberline {2.7}Actividad 7.}{19}{subsection.2.7}
+\contentsline {subsubsection}{\numberline {2.7.1}mkdir make directory}{19}{subsubsection.2.7.1}
+\contentsline {subsection}{\numberline {2.8}Actividad 8.}{20}{subsection.2.8}
+\contentsline {subsubsection}{\numberline {2.8.1}Creaci\IeC {\'o}n de archivos con ''touch``}{20}{subsubsection.2.8.1}
+\contentsline {subsection}{\numberline {2.9}Actividad 9.}{20}{subsection.2.9}
+\contentsline {subsubsection}{\numberline {2.9.1}Cambio de permisos con ''chmod``}{20}{subsubsection.2.9.1}
+\contentsline {subsection}{\numberline {2.10}Actividad 10.}{21}{subsection.2.10}
+\contentsline {subsubsection}{\numberline {2.10.1}Eliminar recursivamente con ''rm`` command}{21}{subsubsection.2.10.1}
+\contentsline {subsection}{\numberline {2.11}Actividad 11.}{21}{subsection.2.11}
+\contentsline {subsubsection}{\numberline {2.11.1}Copia recursiva de directorio con ''cp`` command}{21}{subsubsection.2.11.1}
+\contentsline {subsection}{\numberline {2.12}Actividad 12.}{22}{subsection.2.12}
+\contentsline {subsubsection}{\numberline {2.12.1}Renombrar archivos con ''mv`` command}{22}{subsubsection.2.12.1}
+\contentsline {subsection}{\numberline {2.13}Actividad 13.}{23}{subsection.2.13}
+\contentsline {subsubsection}{\numberline {2.13.1}Copia de dirs mediante path relativo}{23}{subsubsection.2.13.1}
+\contentsline {subsection}{\numberline {2.14}Actividad 14.}{23}{subsection.2.14}
+\contentsline {subsubsection}{\numberline {2.14.1}Enlaces simb\IeC {\'o}licos ''ln'' command}{23}{subsubsection.2.14.1}
+\contentsline {subsection}{\numberline {2.15}Actividad 15.}{25}{subsection.2.15}
+\contentsline {subsubsection}{\numberline {2.15.1}Navegaci\IeC {\'o}n de directorios con Nautilus}{25}{subsubsection.2.15.1}
+\contentsline {subsection}{\numberline {2.16}Actividad 16.}{26}{subsection.2.16}
+\contentsline {subsubsection}{\numberline {2.16.1}Interpertaci\IeC {\'o}n de comandos}{26}{subsubsection.2.16.1}
+\contentsline {section}{\numberline {3}Ejercicios Tema 4: Linea de comandos. Comandos b\IeC {\'a}sicos II }{29}{section.3}
+\contentsline {subsection}{\numberline {3.1}Actividad 1.}{29}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}``find'' and ``locate'' commands}{29}{subsubsection.3.1.1}
+\contentsline {subsection}{\numberline {3.2}Actividad 2.}{29}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}locate -d command}{29}{subsubsection.3.2.1}
+\contentsline {subsection}{\numberline {3.3}Actividad 3.}{31}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}``find`` without name}{31}{subsubsection.3.3.1}
+\contentsline {subsection}{\numberline {3.4}Actividad 4.}{31}{subsection.3.4}
+\contentsline {subsubsection}{\numberline {3.4.1}''find'' buscando por permisos de usuario}{31}{subsubsection.3.4.1}
+\contentsline {subsection}{\numberline {3.5}Actividad 5.}{33}{subsection.3.5}
+\contentsline {subsubsection}{\numberline {3.5.1}``find'' para archivos modificados en un per\IeC {\'\i }odo de tiempo}{33}{subsubsection.3.5.1}
+\contentsline {subsection}{\numberline {3.6}Actividad 6.}{35}{subsection.3.6}
+\contentsline {subsubsection}{\numberline {3.6.1}``grep`` command}{35}{subsubsection.3.6.1}
+\contentsline {subsection}{\numberline {3.7}Actividad 7.}{36}{subsection.3.7}
+\contentsline {subsubsection}{\numberline {3.7.1}''grep`` recursivo}{36}{subsubsection.3.7.1}
+\contentsline {subsection}{\numberline {3.8}Actividad 8.}{36}{subsection.3.8}
+\contentsline {subsubsection}{\numberline {3.8.1}''df`` commands}{36}{subsubsection.3.8.1}
+\contentsline {subsection}{\numberline {3.9}Actividad 9.}{37}{subsection.3.9}
+\contentsline {subsubsection}{\numberline {3.9.1}''tar.gz`` command p/ comprimir}{37}{subsubsection.3.9.1}
+\contentsline {subsection}{\numberline {3.10}Actividad 10.}{38}{subsection.3.10}
+\contentsline {subsubsection}{\numberline {3.10.1}''tar.gz`` command p/ descomprimir}{38}{subsubsection.3.10.1}
+\contentsline {section}{\numberline {4}Ejercicios Tema 6: Uso b\IeC {\'a}sico de la consola }{39}{section.4}
+\contentsline {subsection}{\numberline {4.1}Actividad 1.}{39}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Regular expressions - \texttt {\^} , \$ , . , *}{39}{subsubsection.4.1.1}
+\contentsline {subsection}{\numberline {4.2}Actividad 2.}{41}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Regular expressions - \texttt {\^} , \$ , . , *}{41}{subsubsection.4.2.1}
+\contentsline {subsection}{\numberline {4.3}Actividad 3.}{42}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4.3.1}Regular expressions - \texttt {\^} , . , []}{42}{subsubsection.4.3.1}
+\contentsline {subsection}{\numberline {4.4}Actividad 4.}{44}{subsection.4.4}
+\contentsline {subsubsection}{\numberline {4.4.1}Regular expressions - \texttt {\^} , \$ , []}{44}{subsubsection.4.4.1}
+\contentsline {subsection}{\numberline {4.5}Actividad 5.}{45}{subsection.4.5}
+\contentsline {subsubsection}{\numberline {4.5.1}Regular expressions - \texttt {\^} , \$ , []}{45}{subsubsection.4.5.1}
+\contentsline {subsection}{\numberline {4.6}Actividad 6.}{46}{subsection.4.6}
+\contentsline {subsubsection}{\numberline {4.6.1}The command-line history}{46}{subsubsection.4.6.1}
+\contentsline {subsection}{\numberline {4.7}Actividad 7.}{48}{subsection.4.7}
+\contentsline {subsubsection}{\numberline {4.7.1}history, variable HISTSIZE}{48}{subsubsection.4.7.1}
+\contentsline {subsection}{\numberline {4.8}Actividad 8.}{49}{subsection.4.8}
+\contentsline {subsubsection}{\numberline {4.8.1}HISTCONTROL variable}{49}{subsubsection.4.8.1}
+\contentsline {subsection}{\numberline {4.9}Actividad 9.}{50}{subsection.4.9}
+\contentsline {subsubsection}{\numberline {4.9.1}clear history (history -c)}{50}{subsubsection.4.9.1}
+\contentsline {section}{\numberline {5}Parcial 1 - Parte 2 - Cuestionario Pr\IeC {\'a}ctico}{51}{section.5}
+\contentsline {subsection}{\numberline {5.1}Actividad 1.}{51}{subsection.5.1}
+\contentsline {subsubsection}{\numberline {5.1.1}Regular expressions - \texttt {\^} , \$ , . , *}{51}{subsubsection.5.1.1}
+\contentsline {subsection}{\numberline {5.2}Actividad 2.}{51}{subsection.5.2}
+\contentsline {subsubsection}{\numberline {5.2.1}find command}{51}{subsubsection.5.2.1}
+\contentsline {subsection}{\numberline {5.3}Actividad 3.}{51}{subsection.5.3}
+\contentsline {subsubsection}{\numberline {5.3.1}Regular expressions and ls command}{51}{subsubsection.5.3.1}
+\contentsline {subsection}{\numberline {5.4}Actividad 4.}{52}{subsection.5.4}
+\contentsline {subsubsection}{\numberline {5.4.1}Regular expressions - Tar command}{52}{subsubsection.5.4.1}
+\contentsline {section}{\numberline {6}Ejercicios Tema 7: Shell scripting b\IeC {\'a}sico}{53}{section.6}
+\contentsline {subsection}{\numberline {6.1}Actividad 1.}{53}{subsection.6.1}
+\contentsline {subsubsection}{\numberline {6.1.1}STDERR redirection to file}{53}{subsubsection.6.1.1}
+\contentsline {subsection}{\numberline {6.2}Actividad 2.}{54}{subsection.6.2}
+\contentsline {subsubsection}{\numberline {6.2.1}STDOUT \& STDERR redirection to file}{54}{subsubsection.6.2.1}
+\contentsline {subsection}{\numberline {6.3}Actividad 3.}{54}{subsection.6.3}
+\contentsline {subsubsection}{\numberline {6.3.1}Head - Tail - Pipe}{54}{subsubsection.6.3.1}
+\contentsline {subsection}{\numberline {6.4}Actividad 4.}{56}{subsection.6.4}
+\contentsline {subsubsection}{\numberline {6.4.1}Cat - Grep - Wc}{56}{subsubsection.6.4.1}
+\contentsline {subsection}{\numberline {6.5}Actividad 5.}{57}{subsection.6.5}
+\contentsline {subsubsection}{\numberline {6.5.1}Find \& Sort script}{57}{subsubsection.6.5.1}
+\contentsline {subsection}{\numberline {6.6}Actividad 6.}{58}{subsection.6.6}
+\contentsline {subsubsection}{\numberline {6.6.1}`` - in between Grave accent character }{58}{subsubsection.6.6.1}
+\contentsline {subsection}{\numberline {6.7}Actividad 7.}{60}{subsection.6.7}
+\contentsline {subsubsection}{\numberline {6.7.1}FOR - loops and iteration}{60}{subsubsection.6.7.1}
+\contentsline {section}{\numberline {7}Ejercicios Tema 8: Herramientas para procesar texto}{61}{section.7}
+\contentsline {subsection}{\numberline {7.1}Actividad 1.}{61}{subsection.7.1}
+\contentsline {subsubsection}{\numberline {7.1.1}cat command}{61}{subsubsection.7.1.1}
+\contentsline {subsection}{\numberline {7.2}Actividad 2.}{62}{subsection.7.2}
+\contentsline {subsubsection}{\numberline {7.2.1}less command}{62}{subsubsection.7.2.1}
+\contentsline {subsection}{\numberline {7.3}Actividad 3.}{63}{subsection.7.3}
+\contentsline {subsubsection}{\numberline {7.3.1}grep \& regular expessions}{63}{subsubsection.7.3.1}
+\contentsline {subsection}{\numberline {7.4}Actividad 4.}{63}{subsection.7.4}
+\contentsline {subsubsection}{\numberline {7.4.1}head command}{63}{subsubsection.7.4.1}
+\contentsline {subsection}{\numberline {7.5}Actividad 5.}{64}{subsection.7.5}
+\contentsline {subsubsection}{\numberline {7.5.1}sort command}{64}{subsubsection.7.5.1}
+\contentsline {subsection}{\numberline {7.6}Actividad 6.}{68}{subsection.7.6}
+\contentsline {subsubsection}{\numberline {7.6.1}cut command }{68}{subsubsection.7.6.1}
+\contentsline {subsection}{\numberline {7.7}Actividad 7.}{72}{subsection.7.7}
+\contentsline {subsubsection}{\numberline {7.7.1}sed command}{72}{subsubsection.7.7.1}
+\contentsline {section}{\numberline {8}Ejercicios Tema 10: Shell scripting intermedio}{79}{section.8}
+\contentsline {subsection}{\numberline {8.1}Actividad 1.}{79}{subsection.8.1}
+\contentsline {subsubsection}{\numberline {8.1.1}tar - gzip - date format output}{79}{subsubsection.8.1.1}
+\contentsline {subsection}{\numberline {8.2}Actividad 2.}{80}{subsection.8.2}
+\contentsline {subsubsection}{\numberline {8.2.1}script : ''divisible por 2``}{80}{subsubsection.8.2.1}
+\contentsline {subsection}{\numberline {8.3}Actividad 3.}{81}{subsection.8.3}
+\contentsline {subsubsection}{\numberline {8.3.1}script: tar - gzip - date format output}{81}{subsubsection.8.3.1}
+\contentsline {subsection}{\numberline {8.4}Actividad 4.}{84}{subsection.8.4}
+\contentsline {subsubsection}{\numberline {8.4.1}head command}{84}{subsubsection.8.4.1}
+\contentsline {subsection}{\numberline {8.5}Actividad 5 (ejercitaci\IeC {\'o}n evaluaci\IeC {\'o}n).}{84}{subsection.8.5}
+\contentsline {subsubsection}{\numberline {8.5.1}script: find directories by name - for - if - test - ls}{84}{subsubsection.8.5.1}
+\contentsline {subsection}{\numberline {8.6}Actividad 6 (ejercitaci\IeC {\'o}n evaluaci\IeC {\'o}n).}{84}{subsection.8.6}
+\contentsline {subsubsection}{\numberline {8.6.1}script: True or False - for - if - test - ls}{84}{subsubsection.8.6.1}
+\contentsline {section}{\numberline {9}Ejercicios Tema 11: Configuraci\IeC {\'o}n de Bash}{85}{section.9}
+\contentsline {subsection}{\numberline {9.1}Actividad 1.}{85}{subsection.9.1}
+\contentsline {subsubsection}{\numberline {9.1.1}Variable de entorno PS1}{85}{subsubsection.9.1.1}
+\contentsline {subsection}{\numberline {9.2}Actividad 2.}{85}{subsection.9.2}
+\contentsline {subsubsection}{\numberline {9.2.1}Limpiar History y /tmp}{85}{subsubsection.9.2.1}
+\contentsline {subsection}{\numberline {9.3}Actividad 3.}{85}{subsection.9.3}
+\contentsline {subsubsection}{\numberline {9.3.1}init.d and processes}{85}{subsubsection.9.3.1}
+\contentsline {subsection}{\numberline {9.4}Actividad 4.}{85}{subsection.9.4}
+\contentsline {subsubsection}{\numberline {9.4.1}backup script - tar gz}{85}{subsubsection.9.4.1}
+\contentsline {subsection}{\numberline {9.5}Actividad 5.}{86}{subsection.9.5}
+\contentsline {subsubsection}{\numberline {9.5.1}Alias for grep command}{86}{subsubsection.9.5.1}
+\contentsline {subsection}{\numberline {9.6}Actividad 6.}{86}{subsection.9.6}
+\contentsline {subsubsection}{\numberline {9.6.1}script: given a value to a variable}{86}{subsubsection.9.6.1}
+\contentsline {section}{Bibliograf\'{\i }a}{87}{section*.21}
+\contentsline {section}{Siglas y Acr\'onimos}{89}{section*.21}

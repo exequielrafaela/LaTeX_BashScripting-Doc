@@ -1,0 +1,155 @@
+\BOOKMARK [1][-]{section.1}{Ejercicios Tema1: Introducci\363n al entorno gr\341fico de un Sistema GNU/Linux y herramientas}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Actividad 1.}{section.1}% 2
+\BOOKMARK [3][-]{subsubsection.1.1.1}{Kernel: Definici\363n}{subsection.1.1}% 3
+\BOOKMARK [3][-]{subsubsection.1.1.2}{Versi\363n actual de kernel estable en GNU/Linux}{subsection.1.1}% 4
+\BOOKMARK [3][-]{subsubsection.1.1.3}{Versi\363n mas usada de kernel estable en GNU/Linux}{subsection.1.1}% 5
+\BOOKMARK [2][-]{subsection.1.2}{Actividad 2.}{section.1}% 6
+\BOOKMARK [3][-]{subsubsection.1.2.1}{\277De qu\351 distribuci\363n deriva GNU/Linux Fedora?}{subsection.1.2}% 7
+\BOOKMARK [2][-]{subsection.1.3}{Actividad 3.}{section.1}% 8
+\BOOKMARK [3][-]{subsubsection.1.3.1}{Imprimir pantalla del escritorio Gnome}{subsection.1.3}% 9
+\BOOKMARK [2][-]{subsection.1.4}{Actividad 4.}{section.1}% 10
+\BOOKMARK [3][-]{subsubsection.1.4.1}{Navegaci\363n de directorios con Nautilus}{subsection.1.4}% 11
+\BOOKMARK [2][-]{subsection.1.5}{Actividad 5.}{section.1}% 12
+\BOOKMARK [3][-]{subsubsection.1.5.1}{LibreOffice Writer: Guardado de archivos .doc en .odt }{subsection.1.5}% 13
+\BOOKMARK [2][-]{subsection.1.6}{Actividad 6.}{section.1}% 14
+\BOOKMARK [3][-]{subsubsection.1.6.1}{Consolas virtuales y GTK-Warning}{subsection.1.6}% 15
+\BOOKMARK [1][-]{section.2}{Ejercicios Tema3: L\355nea de Comandos. Comandos b\341sicosI }{}% 16
+\BOOKMARK [2][-]{subsection.2.1}{Actividad 1.}{section.2}% 17
+\BOOKMARK [3][-]{subsubsection.2.1.1}{cd command}{subsection.2.1}% 18
+\BOOKMARK [2][-]{subsection.2.2}{Actividad 2.}{section.2}% 19
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Sudo y permisos de administraci\363n}{subsection.2.2}% 20
+\BOOKMARK [2][-]{subsection.2.3}{Actividad 3.}{section.2}% 21
+\BOOKMARK [3][-]{subsubsection.2.3.1}{less command}{subsection.2.3}% 22
+\BOOKMARK [2][-]{subsection.2.4}{Actividad 4.}{section.2}% 23
+\BOOKMARK [3][-]{subsubsection.2.4.1}{/bin and /sbin}{subsection.2.4}% 24
+\BOOKMARK [2][-]{subsection.2.5}{Actividad 5.}{section.2}% 25
+\BOOKMARK [3][-]{subsubsection.2.5.1}{Listado de permisos ''ls -la`` command}{subsection.2.5}% 26
+\BOOKMARK [2][-]{subsection.2.6}{Actividad 6.}{section.2}% 27
+\BOOKMARK [3][-]{subsubsection.2.6.1}{Listado de permisos ''ls -l`` command}{subsection.2.6}% 28
+\BOOKMARK [2][-]{subsection.2.7}{Actividad 7.}{section.2}% 29
+\BOOKMARK [3][-]{subsubsection.2.7.1}{mkdir make directory}{subsection.2.7}% 30
+\BOOKMARK [2][-]{subsection.2.8}{Actividad 8.}{section.2}% 31
+\BOOKMARK [3][-]{subsubsection.2.8.1}{Creaci\363n de archivos con ''touch``}{subsection.2.8}% 32
+\BOOKMARK [2][-]{subsection.2.9}{Actividad 9.}{section.2}% 33
+\BOOKMARK [3][-]{subsubsection.2.9.1}{Cambio de permisos con ''chmod``}{subsection.2.9}% 34
+\BOOKMARK [2][-]{subsection.2.10}{Actividad 10.}{section.2}% 35
+\BOOKMARK [3][-]{subsubsection.2.10.1}{Eliminar recursivamente con ''rm`` command}{subsection.2.10}% 36
+\BOOKMARK [2][-]{subsection.2.11}{Actividad 11.}{section.2}% 37
+\BOOKMARK [3][-]{subsubsection.2.11.1}{Copia recursiva de directorio con ''cp`` command}{subsection.2.11}% 38
+\BOOKMARK [2][-]{subsection.2.12}{Actividad 12.}{section.2}% 39
+\BOOKMARK [3][-]{subsubsection.2.12.1}{Renombrar archivos con ''mv`` command}{subsection.2.12}% 40
+\BOOKMARK [2][-]{subsection.2.13}{Actividad 13.}{section.2}% 41
+\BOOKMARK [3][-]{subsubsection.2.13.1}{Copia de dirs mediante path relativo}{subsection.2.13}% 42
+\BOOKMARK [2][-]{subsection.2.14}{Actividad 14.}{section.2}% 43
+\BOOKMARK [3][-]{subsubsection.2.14.1}{Enlaces simb\363licos ''ln'' command}{subsection.2.14}% 44
+\BOOKMARK [2][-]{subsection.2.15}{Actividad 15.}{section.2}% 45
+\BOOKMARK [3][-]{subsubsection.2.15.1}{Navegaci\363n de directorios con Nautilus}{subsection.2.15}% 46
+\BOOKMARK [2][-]{subsection.2.16}{Actividad 16.}{section.2}% 47
+\BOOKMARK [3][-]{subsubsection.2.16.1}{Interpertaci\363n de comandos}{subsection.2.16}% 48
+\BOOKMARK [1][-]{section.3}{Ejercicios Tema 4: Linea de comandos. Comandos b\341sicos II }{}% 49
+\BOOKMARK [2][-]{subsection.3.1}{Actividad 1.}{section.3}% 50
+\BOOKMARK [3][-]{subsubsection.3.1.1}{``find'' and ``locate'' commands}{subsection.3.1}% 51
+\BOOKMARK [2][-]{subsection.3.2}{Actividad 2.}{section.3}% 52
+\BOOKMARK [3][-]{subsubsection.3.2.1}{locate -d command}{subsection.3.2}% 53
+\BOOKMARK [2][-]{subsection.3.3}{Actividad 3.}{section.3}% 54
+\BOOKMARK [3][-]{subsubsection.3.3.1}{``find`` without name}{subsection.3.3}% 55
+\BOOKMARK [2][-]{subsection.3.4}{Actividad 4.}{section.3}% 56
+\BOOKMARK [3][-]{subsubsection.3.4.1}{''find'' buscando por permisos de usuario}{subsection.3.4}% 57
+\BOOKMARK [2][-]{subsection.3.5}{Actividad 5.}{section.3}% 58
+\BOOKMARK [3][-]{subsubsection.3.5.1}{``find'' para archivos modificados en un per\355odo de tiempo}{subsection.3.5}% 59
+\BOOKMARK [2][-]{subsection.3.6}{Actividad 6.}{section.3}% 60
+\BOOKMARK [3][-]{subsubsection.3.6.1}{``grep`` command}{subsection.3.6}% 61
+\BOOKMARK [2][-]{subsection.3.7}{Actividad 7.}{section.3}% 62
+\BOOKMARK [3][-]{subsubsection.3.7.1}{''grep`` recursivo}{subsection.3.7}% 63
+\BOOKMARK [2][-]{subsection.3.8}{Actividad 8.}{section.3}% 64
+\BOOKMARK [3][-]{subsubsection.3.8.1}{''df`` commands}{subsection.3.8}% 65
+\BOOKMARK [2][-]{subsection.3.9}{Actividad 9.}{section.3}% 66
+\BOOKMARK [3][-]{subsubsection.3.9.1}{''tar.gz`` command p/ comprimir}{subsection.3.9}% 67
+\BOOKMARK [2][-]{subsection.3.10}{Actividad 10.}{section.3}% 68
+\BOOKMARK [3][-]{subsubsection.3.10.1}{''tar.gz`` command p/ descomprimir}{subsection.3.10}% 69
+\BOOKMARK [1][-]{section.4}{Ejercicios Tema 6: Uso b\341sico de la consola }{}% 70
+\BOOKMARK [2][-]{subsection.4.1}{Actividad 1.}{section.4}% 71
+\BOOKMARK [3][-]{subsubsection.4.1.1}{Regular expressions - , \044 , . , *}{subsection.4.1}% 72
+\BOOKMARK [2][-]{subsection.4.2}{Actividad 2.}{section.4}% 73
+\BOOKMARK [3][-]{subsubsection.4.2.1}{Regular expressions - , \044 , . , *}{subsection.4.2}% 74
+\BOOKMARK [2][-]{subsection.4.3}{Actividad 3.}{section.4}% 75
+\BOOKMARK [3][-]{subsubsection.4.3.1}{Regular expressions - , . , []}{subsection.4.3}% 76
+\BOOKMARK [2][-]{subsection.4.4}{Actividad 4.}{section.4}% 77
+\BOOKMARK [3][-]{subsubsection.4.4.1}{Regular expressions - , \044 , []}{subsection.4.4}% 78
+\BOOKMARK [2][-]{subsection.4.5}{Actividad 5.}{section.4}% 79
+\BOOKMARK [3][-]{subsubsection.4.5.1}{Regular expressions - , \044 , []}{subsection.4.5}% 80
+\BOOKMARK [2][-]{subsection.4.6}{Actividad 6.}{section.4}% 81
+\BOOKMARK [3][-]{subsubsection.4.6.1}{The command-line history}{subsection.4.6}% 82
+\BOOKMARK [2][-]{subsection.4.7}{Actividad 7.}{section.4}% 83
+\BOOKMARK [3][-]{subsubsection.4.7.1}{history, variable HISTSIZE}{subsection.4.7}% 84
+\BOOKMARK [2][-]{subsection.4.8}{Actividad 8.}{section.4}% 85
+\BOOKMARK [3][-]{subsubsection.4.8.1}{HISTCONTROL variable}{subsection.4.8}% 86
+\BOOKMARK [2][-]{subsection.4.9}{Actividad 9.}{section.4}% 87
+\BOOKMARK [3][-]{subsubsection.4.9.1}{clear history \(history -c\)}{subsection.4.9}% 88
+\BOOKMARK [1][-]{section.5}{Parcial 1 - Parte 2 - Cuestionario Pr\341ctico}{}% 89
+\BOOKMARK [2][-]{subsection.5.1}{Actividad 1.}{section.5}% 90
+\BOOKMARK [3][-]{subsubsection.5.1.1}{Regular expressions - , \044 , . , *}{subsection.5.1}% 91
+\BOOKMARK [2][-]{subsection.5.2}{Actividad 2.}{section.5}% 92
+\BOOKMARK [3][-]{subsubsection.5.2.1}{find command}{subsection.5.2}% 93
+\BOOKMARK [2][-]{subsection.5.3}{Actividad 3.}{section.5}% 94
+\BOOKMARK [3][-]{subsubsection.5.3.1}{Regular expressions and ls command}{subsection.5.3}% 95
+\BOOKMARK [2][-]{subsection.5.4}{Actividad 4.}{section.5}% 96
+\BOOKMARK [3][-]{subsubsection.5.4.1}{Regular expressions - Tar command}{subsection.5.4}% 97
+\BOOKMARK [1][-]{section.6}{Ejercicios Tema 7: Shell scripting b\341sico}{}% 98
+\BOOKMARK [2][-]{subsection.6.1}{Actividad 1.}{section.6}% 99
+\BOOKMARK [3][-]{subsubsection.6.1.1}{STDERR redirection to file}{subsection.6.1}% 100
+\BOOKMARK [2][-]{subsection.6.2}{Actividad 2.}{section.6}% 101
+\BOOKMARK [3][-]{subsubsection.6.2.1}{STDOUT \046 STDERR redirection to file}{subsection.6.2}% 102
+\BOOKMARK [2][-]{subsection.6.3}{Actividad 3.}{section.6}% 103
+\BOOKMARK [3][-]{subsubsection.6.3.1}{Head - Tail - Pipe}{subsection.6.3}% 104
+\BOOKMARK [2][-]{subsection.6.4}{Actividad 4.}{section.6}% 105
+\BOOKMARK [3][-]{subsubsection.6.4.1}{Cat - Grep - Wc}{subsection.6.4}% 106
+\BOOKMARK [2][-]{subsection.6.5}{Actividad 5.}{section.6}% 107
+\BOOKMARK [3][-]{subsubsection.6.5.1}{Find \046 Sort script}{subsection.6.5}% 108
+\BOOKMARK [2][-]{subsection.6.6}{Actividad 6.}{section.6}% 109
+\BOOKMARK [3][-]{subsubsection.6.6.1}{`` - in between Grave accent character }{subsection.6.6}% 110
+\BOOKMARK [2][-]{subsection.6.7}{Actividad 7.}{section.6}% 111
+\BOOKMARK [3][-]{subsubsection.6.7.1}{FOR - loops and iteration}{subsection.6.7}% 112
+\BOOKMARK [1][-]{section.7}{Ejercicios Tema 8: Herramientas para procesar texto}{}% 113
+\BOOKMARK [2][-]{subsection.7.1}{Actividad 1.}{section.7}% 114
+\BOOKMARK [3][-]{subsubsection.7.1.1}{cat command}{subsection.7.1}% 115
+\BOOKMARK [2][-]{subsection.7.2}{Actividad 2.}{section.7}% 116
+\BOOKMARK [3][-]{subsubsection.7.2.1}{less command}{subsection.7.2}% 117
+\BOOKMARK [2][-]{subsection.7.3}{Actividad 3.}{section.7}% 118
+\BOOKMARK [3][-]{subsubsection.7.3.1}{grep \046 regular expessions}{subsection.7.3}% 119
+\BOOKMARK [2][-]{subsection.7.4}{Actividad 4.}{section.7}% 120
+\BOOKMARK [3][-]{subsubsection.7.4.1}{head command}{subsection.7.4}% 121
+\BOOKMARK [2][-]{subsection.7.5}{Actividad 5.}{section.7}% 122
+\BOOKMARK [3][-]{subsubsection.7.5.1}{sort command}{subsection.7.5}% 123
+\BOOKMARK [2][-]{subsection.7.6}{Actividad 6.}{section.7}% 124
+\BOOKMARK [3][-]{subsubsection.7.6.1}{cut command }{subsection.7.6}% 125
+\BOOKMARK [2][-]{subsection.7.7}{Actividad 7.}{section.7}% 126
+\BOOKMARK [3][-]{subsubsection.7.7.1}{sed command}{subsection.7.7}% 127
+\BOOKMARK [1][-]{section.8}{Ejercicios Tema 10: Shell scripting intermedio}{}% 128
+\BOOKMARK [2][-]{subsection.8.1}{Actividad 1.}{section.8}% 129
+\BOOKMARK [3][-]{subsubsection.8.1.1}{tar - gzip - date format output}{subsection.8.1}% 130
+\BOOKMARK [2][-]{subsection.8.2}{Actividad 2.}{section.8}% 131
+\BOOKMARK [3][-]{subsubsection.8.2.1}{script : ''divisible por 2``}{subsection.8.2}% 132
+\BOOKMARK [2][-]{subsection.8.3}{Actividad 3.}{section.8}% 133
+\BOOKMARK [3][-]{subsubsection.8.3.1}{script: tar - gzip - date format output}{subsection.8.3}% 134
+\BOOKMARK [2][-]{subsection.8.4}{Actividad 4.}{section.8}% 135
+\BOOKMARK [3][-]{subsubsection.8.4.1}{head command}{subsection.8.4}% 136
+\BOOKMARK [2][-]{subsection.8.5}{Actividad 5 \(ejercitaci\363n evaluaci\363n\).}{section.8}% 137
+\BOOKMARK [3][-]{subsubsection.8.5.1}{script: find directories by name - for - if - test - ls}{subsection.8.5}% 138
+\BOOKMARK [2][-]{subsection.8.6}{Actividad 6 \(ejercitaci\363n evaluaci\363n\).}{section.8}% 139
+\BOOKMARK [3][-]{subsubsection.8.6.1}{script: True or False - for - if - test - ls}{subsection.8.6}% 140
+\BOOKMARK [1][-]{section.9}{Ejercicios Tema 11: Configuraci\363n de Bash}{}% 141
+\BOOKMARK [2][-]{subsection.9.1}{Actividad 1.}{section.9}% 142
+\BOOKMARK [3][-]{subsubsection.9.1.1}{Variable de entorno PS1}{subsection.9.1}% 143
+\BOOKMARK [2][-]{subsection.9.2}{Actividad 2.}{section.9}% 144
+\BOOKMARK [3][-]{subsubsection.9.2.1}{Limpiar History y /tmp}{subsection.9.2}% 145
+\BOOKMARK [2][-]{subsection.9.3}{Actividad 3.}{section.9}% 146
+\BOOKMARK [3][-]{subsubsection.9.3.1}{init.d and processes}{subsection.9.3}% 147
+\BOOKMARK [2][-]{subsection.9.4}{Actividad 4.}{section.9}% 148
+\BOOKMARK [3][-]{subsubsection.9.4.1}{backup script - tar gz}{subsection.9.4}% 149
+\BOOKMARK [2][-]{subsection.9.5}{Actividad 5.}{section.9}% 150
+\BOOKMARK [3][-]{subsubsection.9.5.1}{Alias for grep command}{subsection.9.5}% 151
+\BOOKMARK [2][-]{subsection.9.6}{Actividad 6.}{section.9}% 152
+\BOOKMARK [3][-]{subsubsection.9.6.1}{script: given a value to a variable}{subsection.9.6}% 153
+\BOOKMARK [1][-]{section*.21}{Bibliograf\355a}{}% 154
+\BOOKMARK [1][-]{section*.21}{Siglas y Acr\363nimos}{}% 155

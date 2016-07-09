@@ -1,0 +1,142 @@
+\begin{thebibliography}{}
+
+\bibitem[{A}sociación Cultural U.T.L.A.I. (Cantabria~España), 2009]{utlai}
+{A}sociación Cultural U.T.L.A.I. (Cantabria~España) (2009).
+\newblock Enlaces de ficheros: enlaces duros y enlaces simbólicos.
+\newblock \url{ http://www.nodo50.org/utlai/linux/27010712.htm}.
+\newblock [03-10-2015].
+
+\bibitem[{D}ebian org, 2014]{debiansudo}
+{D}ebian org (2014).
+\newblock sudo.
+\newblock \url{https://wiki.debian.org/sudo)}.
+\newblock [20-09-2015].
+
+\bibitem[{D}igitalOcean™ Inc., 2015]{digitalocean}
+{D}igitalOcean™ Inc. (2015).
+\newblock {H}ow to use find and locate to search for files on a linux vps.
+\newblock
+  \url{https://www.digitalocean.com/community/tutorials/how-to-use-find-and-locate-to-search-for-files-on-a-linux-vps}.
+\newblock [03-10-2015].
+
+\bibitem[{H}ogbin E., 2005a]{tldpre}
+{H}ogbin E., {K}omarinski~M., M.~D. (2005a).
+\newblock The linux documentation project: A brief introduction to regular
+  expressions.
+\newblock \url{http://tldp.org/LDP/abs/html/x17129.html#FTN.AEN17134}.
+\newblock [01-11-2015].
+
+\bibitem[{H}ogbin E., 2005b]{tldphist}
+{H}ogbin E., {K}omarinski~M., M.~D. (2005b).
+\newblock The linux documentation project: The command-line history.
+\newblock \url{http://www.tldp.org/LDP/GNU-Linux-Tools-Summary/html/x1712.htm}.
+\newblock [02-11-2015].
+
+\bibitem[{H}osting~{N}ews LLC, 2010]{serverschool}
+{H}osting~{N}ews LLC (2010).
+\newblock Dedicated server school: Using the linux “history” command.
+\newblock
+  \url{http://www.serverschool.com/dedicated-servers/using-the-linux-history-command/}.
+\newblock [02-11-2015].
+
+\bibitem[{L}inux Kernel Organization~Inc., 2014a]{linuxkernel1}
+{L}inux Kernel Organization~Inc. (2014a).
+\newblock The linux kernel archives.
+\newblock \url{https://www.kernel.org)}.
+\newblock [16-09-2015].
+
+\bibitem[{L}inux Kernel Organization~Inc., 2014b]{linuxkernel}
+{L}inux Kernel Organization~Inc. (2014b).
+\newblock The linux kernel archives: Frequently asked questions.
+\newblock \url{https://www.kernel.org/category/faq.html)}.
+\newblock [16-09-2015].
+
+\bibitem[{M}irizio {E}., 2015a]{mirizioe}
+{M}irizio {E}. (2015a).
+\newblock Guía teórica - diplomatura linux modulo 1.
+\newblock \url{http://www.di.artec.unc.edu.ar/course/view.php?id=4&section=2)}.
+\newblock [20-09-2015].
+
+\bibitem[{M}irizio {E}., 2015b]{mirizioe2}
+{M}irizio {E}. (2015b).
+\newblock Guía teórica - diplomatura linux modulo 7.
+\newblock
+  \url{http://www.di.artec.unc.edu.ar/pluginfile.php/8003/mod_resource/content/1/Tips_Scripts.txt}.
+\newblock [06-12-2015].
+
+\bibitem[{N}atarajan R., 2015]{tecmint}
+{N}atarajan R. (2015).
+\newblock Tecmint: The power of linux “history command” in bash shell.
+\newblock \url{http://www.tecmint.com/history-command-examples/}.
+\newblock [02-11-2015].
+
+\bibitem[Negus, 2015]{linuxbible}
+Negus, C. (2015).
+\newblock {\em Linux Bible}.
+\newblock Wiley, 9 edition.
+
+\bibitem[{O}samu {A}oki, 2013]{osamu}
+{O}samu {A}oki (2013).
+\newblock Debian reference - chapter 1. gnu/linux tutorials - 1.1.6. virtual
+  consoles.
+\newblock
+  \url{https://www.debian.org/doc/manuals/debian-reference/ch01.en.html#_virtual_consoles)}.
+\newblock [19-09-2015].
+
+\bibitem[{R}ed Hat, 2015]{fedoraproject}
+{R}ed Hat, I. (2015).
+\newblock {F}edora project wiki - what is the fedora project?
+\newblock \url{https://fedoraproject.org/wiki/Fedora_Project_Wiki)}.
+\newblock [16-09-2015].
+
+\bibitem[Scheifler~B., ]{xhost}
+Scheifler~B., G.~J.
+\newblock xhost man page.
+\newblock \url{http://www.x.org/archive/X11R7.5/doc/man/man1/xhost.1.html}.
+\newblock [19-09-2015].
+
+\bibitem[{S}hrestha {N}., 2009]{thegeekstuff3}
+{S}hrestha {N}. (2009).
+\newblock Unix sed tutorial: Find and replace text inside a file using regex.
+\newblock
+  \url{http://www.thegeekstuff.com/2009/09/unix-sed-tutorial-replace-text-inside-a-file-using-substitute-command/}.
+\newblock [07-12-2015].
+
+\bibitem[{S}hrestha {N}., 2013a]{thegeekstuff2}
+{S}hrestha {N}. (2013a).
+\newblock 10 practical linux cut command examples to select file columns.
+\newblock \url{http://www.thegeekstuff.com/2013/06/cut-command-examples/}.
+\newblock [07-12-2015].
+
+\bibitem[{S}hrestha {N}., 2013b]{thegeekstuff}
+{S}hrestha {N}. (2013b).
+\newblock How to sort files in linux using sort command.
+\newblock \url{http://www.thegeekstuff.com/2013/04/sort-files/}.
+\newblock [07-12-2015].
+
+\bibitem[{V}ivek {G}., 2006]{vivkg}
+{V}ivek {G}. (2006).
+\newblock How do i compress a whole linux or unix directory.
+\newblock
+  \url{http://www.cyberciti.biz/faq/how-do-i-compress-a-whole-linux-or-unix-directory}.
+\newblock [04-10-2015].
+
+\bibitem[{W}ikipedia Project, 2015a]{wikifhs}
+{W}ikipedia Project (2015a).
+\newblock Filesystem hierarchy standard.
+\newblock \url{https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard}.
+\newblock [20-09-2015].
+
+\bibitem[{W}ikipedia Project, 2015b]{wikikernel1}
+{W}ikipedia Project (2015b).
+\newblock Linux kernel.
+\newblock \url{ https://en.wikipedia.org/wiki/Linux_kernel#2.6.x.y_releases)}.
+\newblock [16-09-2015].
+
+\bibitem[{W}ikipedia Project, 2015c]{wikikernel}
+{W}ikipedia Project (2015c).
+\newblock What is the fedora project?
+\newblock \url{https://es.wikipedia.org/wiki/N%C3%BAcleo_(inform%C3%A1tica)}.
+\newblock [16-09-2015].
+
+\end{thebibliography}

@@ -1,0 +1,18 @@
+home/curso/ArchivoA.txt
+home/curso/ArchivoB.txt
+home/curso/BarrireroExequiel
+home/curso/dead.letter
+home/curso/Desktop
+home/curso/Documents
+home/curso/Downloads
+home/curso/group -> /etc/group
+home/curso/Music
+home/curso/Pictures
+home/curso/Public
+home/curso/root
+home/curso/Software
+home/curso/tema10
+home/curso/tema7
+home/curso/tema8
+home/curso/Templates
+home/curso/Videos
