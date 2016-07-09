@@ -1,5 +1,8 @@
 # LaTeX_BashScripting-Doc
  Introduction to GNU/Linux OS Administration &amp; Bash Scripting.
+ 
+In this repo you'll find the LaTeX code of the Introduction to GNU/Linux OS Administration &amp; Bash Scripting UNC Cordoba Argentina 2015 GNU/Linux Diploma + Bash scripts code.
+
 
 Ejercicios Tema1: Introducción al entorno gráfico de un Sistema GNU/Linux y herramientas
 	
