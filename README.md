@@ -3,8 +3,14 @@
 
 *In this repo you'll find the LaTeX code of the Introduction to GNU/Linux OS Administration &amp; Bash Scripting UNC Cordoba Argentina 2015 GNU/Linux Diploma + Bash scripts code.*
 
-![](https://github.com/exequielrafaela/LaTeX_BashScripting-Doc/blob/master/Figuras/linux_negro_blanco.png =250x)
-
+<p align="center">
+  <b>Some Related Links:</b><br>
+  <a href="#">http://www.binbash.com.ar/programming/bash/bash-scripting</a> |
+  <a href="#">http://www.linuxfoundation.org/</a> |
+  <a href="#">https://www.kernel.org/</a>
+  <br><br>
+  <img src="https://github.com/exequielrafaela/LaTeX_BashScripting-Doc/blob/master/Figuras/linux_negro_blanco.png">
+</p>
 
 Ejercicios Tema1: Introducción al entorno gráfico de un Sistema GNU/Linux y herramientas
 	
