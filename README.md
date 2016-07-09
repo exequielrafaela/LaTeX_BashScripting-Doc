@@ -9,7 +9,7 @@
   <a href="#">http://www.linuxfoundation.org/</a> |
   <a href="#">https://www.kernel.org/</a>
   <br><br>
-  <img src="https://github.com/exequielrafaela/LaTeX_BashScripting-Doc/blob/master/Figuras/linux_negro_blanco.png">
+  <img src="https://github.com/exequielrafaela/LaTeX_BashScripting-Doc/blob/master/Figuras/linux_negro_blanco.png"  width="200" height="300">
 </p>
 
 Ejercicios Tema1: Introducción al entorno gráfico de un Sistema GNU/Linux y herramientas
